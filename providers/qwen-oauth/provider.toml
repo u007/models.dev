@@ -1,0 +1,5 @@
+name = "Qwen OAuth"
+env = []
+npm = "@ai-sdk/openai-compatible"
+doc = "https://github.com/QwenLM/qwen-code"
+api = "https://dashscope.aliyuncs.com/compatible-mode/v1"
